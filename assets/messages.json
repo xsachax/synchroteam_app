@@ -1,0 +1,32 @@
+{
+	"items": [
+		{
+			"from": "John Doe",
+			"title": "Message title",
+			"content": "It's probably too long to fit on a single line so it will need to be truncated in the preview window",
+			"date": "2021-07-15 14:23:05",
+			"read": false
+		},
+		{
+			"from": "Jane Doe",
+			"title": "Hey there, how are you?",
+			"content": "Hello neighbour, we found your lost cat in our backyard",
+			"date": "2021-07-14 12:00:09",
+			"read": false
+		},
+		{
+			"from": "Jack Frost",
+			"title": "Good Morning, want some coffee?",
+			"content": "I don't want to write a huge paragraph, but I'm going to get coffee",
+			"date": "2021-07-12 16:45:13",
+			"read": false
+		},
+		{
+			"from": "Tom Brady",
+			"title": "Up for a game of football?",
+			"content": "Hey Gronk, I'm gonna be at the park today, want to get some reps?",
+			"date": "2021-07-09 17:18:58",
+			"read": true
+		}
+	]
+}

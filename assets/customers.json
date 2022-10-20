@@ -1,0 +1,234 @@
+{
+    "customers": [
+        {
+            "id": 12345,
+            "name": "Winnipeg Jets",
+            "address": {
+                "full": "123 Laurier Avenue West, K1P 5J2 Ottawa, ON, Canada",
+                "city": "Winnipeg",
+                "complement": "13th floor, apt B",
+                "country": "Canada",
+                "province": "Manitoba",
+                "street": "123 Laurier Ave W",
+                "zip": "K1P 5J2"
+            },
+            "contact": {
+                "email": "mary@mailserver.com",
+                "firstName": "Mary",
+                "lastName": "Whyatt",
+                "mobile": "+16134206969",
+                "phone": "+16137899877"
+            },
+            "customFields": [
+                {
+                    "id": 2346,
+                    "label": "Client Designation",
+                    "value": "CL-ABCD-12"
+                },
+                {
+                    "id": 2347,
+                    "label": "Surface Area",
+                    "value": "54 Acres"
+                },
+                {
+                    "id": 4711,
+                    "label": "PO Number Base",
+                    "value": "SI-ABCD"
+                }
+            ],
+            "jobs": [
+                
+            ],
+            "sites": [
+                
+            ],
+            "equipment": [
+                
+            ],
+            "position": {
+                "latitude": 49.895077,
+                "longitude": -97.138451
+            },
+            "tags": [
+                "East Zone",
+                "Capital"
+            ],
+            "distance": 0.0
+        },
+        {
+            "id": 57493,
+            "name": "Ottawa Senators",
+            "address": {
+                "full": "205 Bank St,K1N 4L1 Ottawa, ON, Canada",
+                "city": "Ottawa",
+                "complement": "",
+                "country": "Canada",
+                "province": "Ontario",
+                "street": "205 Bank St",
+                "zip": "K1N 4L1"
+            },
+            "contact": {
+                "email": "johnwidget@gmail.com",
+                "firstName": "John",
+                "lastName": "Doe",
+                "mobile": null,
+                "phone": "+16135690973"
+            },
+            "customFields": [
+                {
+                    "id": 2346,
+                    "label": "Client Designation",
+                    "value": "CL-JWD-01"
+                },
+                {
+                    "id": 2347,
+                    "label": "Surface Area",
+                    "value": "2300 sq ft"
+                }
+            ],
+            "jobs": [
+                
+            ],
+            "sites": [
+                
+            ],
+            "equipment": [
+                
+            ],
+            "position": {
+                "latitude": 45.41117,
+                "longitude":  -75.69812
+            },
+            "tags": [
+                "Capital"
+            ],
+            "distance": 0.0
+        },
+        {
+            "id": 13402,
+            "name": "Montreal Canadiens",
+            "address": {
+                "full": "123 Clarence St, K1N 5Z4 Ottawa, ON, Canada",
+                "city": "Montreal",
+                "complement": "",
+                "country": "Canada",
+                "province": "Quebec",
+                "street": "123 Clarence St",
+                "zip": "K1N 5Z4"
+            },
+            "contact": {
+                "email": "tastylarry@gmail.com",
+                "firstName": "Larry",
+                "lastName": "O'Brian",
+                "mobile": "+16132044444",
+                "phone": null
+            },
+            "customFields": [
+                {
+                    "id": 2347,
+                    "label": "Surface Area",
+                    "value": "5000 sq ft"
+                }
+            ],
+            "jobs": [
+                
+            ],
+            "sites": [
+                
+            ],
+            "equipment": [
+                
+            ],
+            "position": {
+                "latitude": 45.5016889,
+                "longitude": -73.567256
+            },
+            "tags": [],
+            "distance": 0.0
+        },
+        {
+            "id": 75493,
+            "name": "Edmonton Oilers",
+            "address": {
+                "full": "123 Clarence St, K1N 5Z4 Ottawa, ON, Canada",
+                "city": "Edmonton",
+                "complement": "",
+                "country": "Canada",
+                "province": "Alberta",
+                "street": "123 Clarence St",
+                "zip": "K1N 5Z4"
+            },
+            "contact": {
+                "email": "tastylarry@gmail.com",
+                "firstName": "Larry",
+                "lastName": "O'Brian",
+                "mobile": "+16132044444",
+                "phone": null
+            },
+            "customFields": [
+                {
+                    "id": 2347,
+                    "label": "Surface Area",
+                    "value": "5000 sq ft"
+                }
+            ],
+            "jobs": [
+                
+            ],
+            "sites": [
+                
+            ],
+            "equipment": [
+                
+            ],
+            "position": {
+                "latitude": 53.631611,
+                "longitude": -113.323975
+            },
+            "tags": [],
+            "distance": 0.0
+        },
+        {
+            "id": 13402,
+            "name": "Milwauke Bucks",
+            "address": {
+                "full": "123 Clarence St, K1N 5Z4 Ottawa, ON, Canada",
+                "city": "Milwauke",
+                "complement": "",
+                "country": "USA",
+                "province": "Wisconsin",
+                "street": "123 Clarence St",
+                "zip": "K1N 5Z4"
+            },
+            "contact": {
+                "email": "tastylarry@gmail.com",
+                "firstName": "Larry",
+                "lastName": "O'Brian",
+                "mobile": "+16132044444",
+                "phone": null
+            },
+            "customFields": [
+                {
+                    "id": 2347,
+                    "label": "Surface Area",
+                    "value": "5000 sq ft"
+                }
+            ],
+            "jobs": [
+                
+            ],
+            "sites": [
+                
+            ],
+            "equipment": [
+                
+            ],
+            "position": {
+                "latitude": 43.038902,
+                "longitude": -87.906471
+            },
+            "tags": [],
+            "distance": 0.0
+        }
+    ]
+}

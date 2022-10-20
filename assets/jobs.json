@@ -1,0 +1,127 @@
+{
+    "jobs": [
+        {
+            "id": 10281,
+            "num": 11,
+            "status": 5,
+            "start": "2021-08-23 12:00:00",
+            "end": "2021-08-23 14:00:00",
+            "priority": "high",
+            "jobType": {
+                "id": 1074,
+                "name": "Disaster Survey"
+            },
+            "address": {
+                "full": "1199 Explosion Alley, Moscow, RUS",
+                "city": "Moscow",
+                "complement": "",
+                "country": "RUS",
+                "province": "",
+                "street": "1199 Explosion Alley",
+                "zip": ""
+            },
+            "position": {
+                "latitude": 49.7087252,
+                "longitude": -72.0008762
+            },
+            "client": {
+                "id": 10322,
+                "name": "ACME Corp"
+            },
+            "site": {
+                "id": 0,
+                "name": "Site No. 1"
+            },
+            "equip": {
+                "id": 3,
+                "name": null
+            },
+            "customFields": [],
+            "tags": null,
+            "skills": null,
+            "distance": 0.0
+        },
+        {
+            "id": 10282,
+            "num": 11,
+            "status": 2,
+            "start": "2021-08-21 16:00:00",
+            "end": "2021-08-21 18:00:00",
+            "priority": "normal",
+            "jobType": {
+                "id": 1075,
+                "name": "Window Cleaning"
+            },
+            "address": {
+                "full": "4201 Water Street, New York, USA",
+                "city": "New York",
+                "complement": "",
+                "country": "USA",
+                "province": "",
+                "street": "4201 Water Street",
+                "zip": ""
+            },
+            "position": {
+                "latitude": 56.7087252,
+                "longitude": -95.0008762
+            },
+            "client": {
+                "id": 10322,
+                "name": "Mr Clean Industries."
+            },
+            "site": {
+                "id": 1,
+                "name": null
+            },
+            "equip": {
+                "id": 2,
+                "name": null
+            },
+            "customFields": [],
+            "tags": null,
+            "skills": null,
+            "distance": 0.0
+        },
+        {
+            "id": 10283,
+            "num": 11,
+            "status": 2,
+            "start": "2021-08-21 19:00:00",
+            "end": "2021-08-21 21:00:00",
+            "priority": "low",
+            "jobType": {
+                "id": 1075,
+                "name": "Feed dogs"
+            },
+            "address": {
+                "full": "279 Bark Road, Ottawa, CAN",
+                "city": "Ottawa",
+                "complement": "",
+                "country": "CAN",
+                "province": "",
+                "street": "279 Bark Road",
+                "zip": ""
+            },
+            "position": {
+                "latitude": 40.7087252,
+                "longitude": -74.0008762
+            },
+            "client": {
+                "id": 10322,
+                "name": "PawPatrol Inc."
+            },
+            "site": {
+                "id": 2,
+                "name": null
+            },
+            "equip": {
+                "id": 1,
+                "name": null
+            },
+            "customFields": [],
+            "tags": null,
+            "skills": null,
+            "distance": 0.0
+        }
+    ]
+}
